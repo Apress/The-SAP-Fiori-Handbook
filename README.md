@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*The SAP Fiori Handbook*](https://www.link.springer.com/book/10.1007/979-8-8688-1612-3) by Manpreet S. Brara and Subba Rao M.V. Parvathaneni (Apress, 2025).
+This repository accompanies [*The SAP Fiori Handbook*](https://link.springer.com/book/9798868816116) by Manpreet S. Brara and Subba Rao M.V. Parvathaneni (Apress, 2025).
 
 [comment]: #cover
 ![Cover image](979-8-8688-1611-6.jpg)
